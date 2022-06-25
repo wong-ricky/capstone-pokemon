@@ -54,7 +54,7 @@ After removing the high p-values we still have a few predictors that can be remo
 
 #### Model 3
 With our final model we have an R-Squared value that can explain 50.3% of the variance in our model. All our predictors can be considered statistically significant as their P-Value is less than 0.05.
-One of the assumptions for linear regression is that our data needs to have normal distribution. This can be seen with our QQ-Plot mostly falling on the red line. The skew value also reinforces this by being between -0.5 and 0.5. ![QQ-Plot](images/qq-Plot.JPG)
+One of the assumptions for linear regression is that our data needs to have normal distribution. This can be seen with our QQ-Plot mostly falling on the red line. The skew value also reinforces this by being between -0.5 and 0.5. ![QQ-Plot](images/qq-plot.JPG)
 Another assumption for linear regression is that the data needs to be homoscedastic which is represented in our residuals scatterplot not having a cone like shape or pattern.
 
 #### Homoscedasticity
@@ -64,7 +64,7 @@ Scatterplot to show homoscedasticity. No cone like pattern.
 #### Training
 With training and test MSE being similar, we can expect the model to perform similarly on different data.<br />
 Accuracy of the model is 51.43%
-![Accuracy](images/Accuracy.JPG)
+![Accuracy](images/accuracy.JPG)
 
 
 ## Conclusions
