@@ -75,7 +75,7 @@ Having high attack doesn't mean it is a top tier Pokémon to use as the other st
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Pokemon.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Pokemon.ipynb) or our [presentation](./Presentation.pdf).
 
 For any additional questions, please contact ** Ricky wong_ricky@hotmail.com**
 
